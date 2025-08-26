@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hospital Management System
 
 A comprehensive Java Swing-based hospital management system with role-based access and modern GUI interface.
@@ -99,3 +100,7 @@ The application includes sample data for testing:
 ## License
 
 This project is for educational purposes.
+=======
+# Botsogo
+Botsogo simplifies healthcare administration while ensuring secure, efficient patient care management.
+>>>>>>> 5b16456eeb9e178a47372f801adfba8662840fae
