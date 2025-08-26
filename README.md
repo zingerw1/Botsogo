@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# Hospital Management System
+
+# Botsogo Hospital Management System
 
 A comprehensive Java Swing-based hospital management system with role-based access and modern GUI interface.
 
